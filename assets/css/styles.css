@@ -302,7 +302,6 @@ a.btn:hover {
   text-align: center;
 }
 .timeline {
-  border-left: 3px solid #00BCD4;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
   position: relative;
@@ -333,7 +332,6 @@ a.btn:hover {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   background: #fff;
-  border: 3px solid #00BCD4;
 }
 .timeline .item:after {
   content: "";
@@ -351,7 +349,6 @@ a.btn:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #00BCD4;
   z-index: 10;
 }
 .timeline .work-place {
