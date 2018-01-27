@@ -6,6 +6,10 @@
  * Twitter: @3rdwave_themes
 */
 /* ======= Base ======= */
+
+.tab { margin-left: 40px; }
+.tab2{margin-left: 80px;}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #666;
